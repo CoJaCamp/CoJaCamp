@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been writing code for a year now<br>📚 I've finished a ten month boot camp in software engineering with Springboard<br>🎯 Goals: Learn and improve skills in web based frameworks</p>
+<p align="left">✨ I've been writing code for a couple years now<br>📚 I've finished a ten month boot camp in software engineering with Springboard<br>🎯 Goals: Learn and improve skills in web based frameworks</p>
 
 ###
 
