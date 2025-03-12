@@ -52,5 +52,5 @@
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoJaCamp&theme=vue-dark&show_icons=true&border=true&layout=donut&hide=DIGITAL%20Command%20Language"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoJaCamp&theme=vue-dark&hide_border=false&hide_current_streak=true&hide_longest_streak=true&card_width=350"/>
+
 <div/> 
